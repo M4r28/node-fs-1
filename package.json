@@ -1,0 +1,21 @@
+{
+  "name": "node-fs-1",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M4r28/node-fs-1.git"
+  },
+  "keywords": [],
+  "author": "Marta <marta.marta.k@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/M4r28/node-fs-1/issues"
+  },
+  "homepage": "https://github.com/M4r28/node-fs-1#readme"
+}
